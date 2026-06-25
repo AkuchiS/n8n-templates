@@ -1,5 +1,9 @@
 # Free n8n templates — by AkuchiS
 
+[![License](https://img.shields.io/github/license/AkuchiS/n8n-templates?color=8A2BE2)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/AkuchiS/n8n-templates?color=8A2BE2)](https://github.com/AkuchiS/n8n-templates/commits)
+[![Stars](https://img.shields.io/github/stars/AkuchiS/n8n-templates?color=8A2BE2)](https://github.com/AkuchiS/n8n-templates/stargazers)
+
 Production-shaped n8n workflows you can import and use. **Core nodes only, no community packages, no embedded secrets** — and every one is validated import-clean with FlowProof (verdicts arbitrated against a live n8n import).
 
 | Template | What it does | FlowProof |
