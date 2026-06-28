@@ -26,8 +26,8 @@ Most shared n8n templates *don't* import cleanly — leaked credentials, missing
   ```bash
   flowproof check your-workflow.json
   ```
-- **FlowProof Pro** repairs it and hands you an import-ready file + a content-hashed "FlowProof Checked" certificate + a client-ready handover.
-- **FlowProof n8n node** (coming soon) runs this check *inside* n8n so you can gate a deploy.
+- **FlowProof for n8n** runs this check *inside* n8n so you can gate a deploy: [n8n-nodes-flowproof](https://github.com/AkuchiS/n8n-nodes-flowproof).
+- **FlowProof Pro** repairs it and hands you an import-ready file + a content-hashed "FlowProof Checked" certificate + a client-ready handover: [fp.akuchis.com](https://fp.akuchis.com).
 
 ---
-*[AkuchiS](https://github.com/AkuchiS) tools, operated by DIME. Private-by-design — they run on your machine; we host nothing and see no data.*
+<sub>[AkuchiS](https://github.com/AkuchiS) tools · more at [github.akuchis.com](https://github.akuchis.com). Private-by-design — they run on your machine; we host nothing and see no data.</sub>
